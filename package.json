@@ -2,7 +2,7 @@
   "name": "qrcodejs",
   "version": "1.0.0",
   "description": "QRCode.js is javascript library for making QRCode",
-  "main": "index",
+  "main": "./qrcode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
